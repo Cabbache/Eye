@@ -1,3 +1,6 @@
+#author: Cabbache
+#19/3/2019
+
 import cv2
 import requests
 import urllib
