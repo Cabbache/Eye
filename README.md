@@ -18,4 +18,4 @@ for python:
 * requests 2.22.0
 
 This script will become outdated if the skyline website undergoes major changes.
-It was last tested on Debian 4.19.20-1kali1 (2019-02-14) on 19th March, 2019.
+It was last tested on Ubuntu 8th July 2019.
