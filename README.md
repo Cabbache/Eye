@@ -12,10 +12,10 @@ A problem developed when the rate at which the live stream is downloaded exceede
 
 ### Dependencies ###
 
-for python (only the specified versions were tested):
-* openCV 4.0.0
-* urllib 1.17
-* requests 2.21.0
+for python:
+* openCV 4.1.0.25
+* urllib3 1.25.3
+* requests 2.22.0
 
 This script will become outdated if the skyline website undergoes major changes.
 It was last tested on Debian 4.19.20-1kali1 (2019-02-14) on 19th March, 2019.
